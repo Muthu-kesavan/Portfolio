@@ -16,7 +16,7 @@ export const ProjectList = [
     skills: "React,API.",
   },
   {
-    name: "Chat application for SRM students(UNDER DEVELOPING)",
+    name: "Chat application For SRM students (UNDER DEVELOPING)",
     image: proj3,
     skills: "React, Node, Express, MongoDB."
   },
