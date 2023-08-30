@@ -20,7 +20,7 @@ function Home(){
                     <a href="mailto:muthukesavan6044@gmail.com">
                         <EmailIcon/>
                     </a>
-                    <a href="https://drive.google.com/file/d/11TjlfEvYqmdUuVzWC3oH69YoIjwJ8XX-/view?usp=drivesdk" target="_blank" rel="noopener noreferrer">
+                    <a href="https://drive.google.com/file/d/1NwHMrvF1PUmTS447t99KPSXlygtFHNkd/view?usp=drivesdk" target="_blank" rel="noopener noreferrer">
                         <ResumeIcon/>
                     </a>
                 </div>
