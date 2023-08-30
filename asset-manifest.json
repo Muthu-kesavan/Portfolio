@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8e87e178.css",
+    "main.js": "/static/js/main.ebe8c7ad.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/proj1.png": "/static/media/proj1.4594d0c043520ae651bb.png",
+    "static/media/course4.png": "/static/media/course4.ad6768f44819b23427e0.png",
+    "static/media/proj3.png": "/static/media/proj3.1bb54fedbc7ab03c6fd0.png",
+    "static/media/proj2.jpg": "/static/media/proj2.05613620abb706791d21.jpg",
+    "static/media/proj4.jpg": "/static/media/proj4.d0dd47fbadb2328ff681.jpg",
+    "static/media/course3.png": "/static/media/course3.116cf5c37130456149cc.png",
+    "static/media/course6.webp": "/static/media/course6.6d2c6146dd19a8125f2f.webp",
+    "index.html": "/index.html",
+    "main.8e87e178.css.map": "/static/css/main.8e87e178.css.map",
+    "main.ebe8c7ad.js.map": "/static/js/main.ebe8c7ad.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e87e178.css",
+    "static/js/main.ebe8c7ad.js"
+  ]
+}
