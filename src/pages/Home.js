@@ -8,7 +8,7 @@ function Home(){
     return (
         <div className="home">
             <div className="about">
-                <h2>Hi, My Name is Muthu Kesavan</h2>
+                <h2>Hi,👋 I am Muthu Kesavan</h2>
                 <div className="prompt">
                     <p>A Final year computer science student with strong passion of learning and building new things. </p>
                 <a href="https://www.linkedin.com/in/muthu-kesavan-s-95425821b/" target="_blank" rel="noopener noreferrer">
@@ -31,7 +31,7 @@ function Home(){
                     <li className="item">
                         <h2>Front-End</h2>
                         <span>
-                            HTML, CSS, Yarn, React, MaterialUI.   </span>
+                            HTML, CSS, React, MaterialUI.   </span>
                     </li>
                     <li className="item">
                         <h2>Back-End</h2>
@@ -41,7 +41,7 @@ function Home(){
                     </li>
                     <li className="item">
                         <h2>Programming languages</h2>
-                        <span>C language, Python, Javascript.</span>
+                        <span> Python, Javascript.</span>
                     </li>
                     <li className="item">
                         <h2>Cyber-security Tools</h2>
