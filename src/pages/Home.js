@@ -3,12 +3,13 @@ import LinkedInIcon from '@material-ui/icons/LinkedIn'
 import GitHubIcon from '@material-ui/icons/GitHub' 
 import EmailIcon from '@material-ui/icons/Email'
 import ResumeIcon from '@material-ui/icons/FileCopyOutlined'
+import hand from '../assets/giphy.webp'
 import '../styles/Home.css'
 function Home(){
     return (
         <div className="home">
             <div className="about">
-                <h2>Hi,👋 I am Muthu Kesavan</h2>
+                <h2>Hello,<img src={hand} width="85px"></img> I'm Muthu Kesavan</h2>
                 <div className="prompt">
                     <p>A Final year computer science student with strong passion of learning and building new things. </p>
                 <a href="https://www.linkedin.com/in/muthu-kesavan-s-95425821b/" target="_blank" rel="noopener noreferrer">

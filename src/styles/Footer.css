@@ -9,6 +9,11 @@
     padding-top: 10px;
     margin-top: 200px;
   }
+
+  .text {
+    color: white;
+    text-align: center;
+  }
   
   .socialMedia svg {
     color: white;

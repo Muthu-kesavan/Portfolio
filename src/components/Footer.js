@@ -3,11 +3,15 @@ import LinkedInIcon from '@material-ui/icons/LinkedIn';
 import GitHubIcon from '@material-ui/icons/GitHub'; 
 import EmailIcon from '@material-ui/icons/Email';
 import '../styles/Footer.css';
+import thumbs from '../assets/thumb.gif';
 
 function Footer() {
     return (
         <div className="footer">
             <div className="socialMedia">
+                <div className="text">
+                    <h2>Feel Free to Connect<img src={thumbs} width="40px"></img></h2>
+                </div>
                 <a href="https://www.linkedin.com/in/muthu-kesavan-s-95425821b/" target="_blank" rel="noopener noreferrer">
                     <LinkedInIcon />
                 </a>
@@ -18,7 +22,6 @@ function Footer() {
                     <EmailIcon />
                 </a>
             </div>
-            <p>&copy; 2023  All rights reserved</p>
         </div>
     );
 }
