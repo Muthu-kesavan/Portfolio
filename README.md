@@ -6,7 +6,6 @@ Welcome to my portfolio website hosted on Netlify! This site highlights my skill
 - **💼Skills Showcase**:Explore the technologies and skills I'm proficient in.
 - **📂Project Portfolio**: View my latest projects and works.
 - **📚Coursework**: Check out courses and certifications I've completed.
-- **🌟About Me**: Learn more about my background, interests, and aspirations.
 - **🤝Connect**: Reach out to connect with me.
 
 ## 🌐 Live Demo
