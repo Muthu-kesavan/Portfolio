@@ -3,7 +3,7 @@ Welcome to my portfolio website hosted on Netlify! This site highlights my skill
 
 ## 🚀 Features
 
-- **💼Skills Showcase**:Explore the technologies and skills I'm proficient in.
+- **💼Skills Showcase**: Explore the technologies and skills I'm proficient in.
 - **📂Project Portfolio**: View my latest projects and works.
 - **📚Coursework**: Check out courses and certifications I've completed.
 - **🤝Connect**: Reach out to connect with me.
@@ -13,7 +13,7 @@ Welcome to my portfolio website hosted on Netlify! This site highlights my skill
 Check out the live version of the portfolio website [here](https://muthuk7.netlify.app).
 
 ## 🛠️ Technologies Used
-- **React Framework**: Used for building the frontend.
+- **React Framework**: Used for building the front end.
 - **HTML/CSS/JavaScript**: Core technologies for web development.
 - **Netlify**: Hosting platform for the website.
 
